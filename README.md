@@ -70,7 +70,7 @@ This will show the python process with its PID (Process ID)
 
 Replace "Process id" with the PID displayed.
 A Demonstration of the same is given below -
-![ProcessKill](PATH)
+![ProcessKill](https://github.com/anujeshify/QuoterX/blob/main/Extras/Process%20Termination.png)
 
 ## How it works
 
