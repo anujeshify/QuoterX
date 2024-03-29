@@ -15,6 +15,7 @@ Before running the script, make sure you have the following:
     ```cmd
     pip install tweepy
     ```
+    ![TweepyInstall](https://github.com/anujeshify/QuoterX/blob/main/Extras/Install%20Tweepy.png)
 
 3. Tokens and API Keys for Twitter Account Authentication and Access
     - Click [here](https://developer.twitter.com/en) to learn more about Twitter's Developer Platform
